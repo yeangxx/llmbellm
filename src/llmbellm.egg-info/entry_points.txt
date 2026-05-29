@@ -1,0 +1,2 @@
+[console_scripts]
+llmbellm = llmbellm.cli:main
