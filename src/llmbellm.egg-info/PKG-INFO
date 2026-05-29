@@ -1,3 +1,13 @@
+Metadata-Version: 2.4
+Name: llmbellm
+Version: 0.1.0
+Summary: Ring a terminal bell when your LLM call finishes
+License: MIT
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+Provides-Extra: dev
+Requires-Dist: pytest>=7; extra == "dev"
+
 # llmbellm
 
 > Ring a terminal bell when your LLM call finishes.
